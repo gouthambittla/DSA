@@ -1,19 +1,18 @@
 # DSA Learning Progress
 
-
 ## Sorting Algorithms
 
-- [x] Bubble Sort
-- [x] Counting Sort
-- [x] Insertion Sort
-- [x] Merge Sort
-- [x] Quick Sort
-- [x] Selection Sort
+- [x] [Bubble Sort](Sorting/Bubblesort.js)
+- [x] [Counting Sort](Sorting/CountingSort.js)
+- [x] [Insertion Sort](Sorting/insertionSort.js)
+- [x] [Merge Sort](Sorting/mergeSort.js)
+- [x] [Quick Sort](Sorting/QuickSort.js)
+- [x] [Selection Sort](Sorting/SelectionSort.js)
 
 ## Array Problems
 
-- [x] Check Sorted Array
-- [x] Largest Element
-- [x] Left Rotate An Array
-- [x] Remove Duplicate In Sorted Array
-- [x] Second Largest
+- [x] [Check Sorted Array](Array_Problems/CheckSortedArray.js)
+- [x] [Largest Element](Array_Problems/LargestElement.js)
+- [x] [Left Rotate An Array](Array_Problems/LeftRotateAnArray.js)
+- [x] [Remove Duplicate In Sorted Array](Array_Problems/RemoveDuplicateInSortedArray.js)
+- [x] [Second Largest](Array_Problems/SecondLargest.js)
